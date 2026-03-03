@@ -9,12 +9,9 @@
         "main.ts",
         "README.md",
         "assets.json",
-        "debug.ts",
-        "test.ts"
+        "debug.ts"
     ],
-    "testFiles": [
-        "test.ts"
-    ],
+    "testFiles": [],
     "targetVersions": {
         "target": "4.0.10",
         "targetId": "arcade"
